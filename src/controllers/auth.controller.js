@@ -38,7 +38,11 @@ async function userRegisterController(req, res) {
         token
     })
 
-    await emailService.sendRegistrationEmail(user.email, user.name)
+    try {
+        await emailService.sendRegistrationEmail(user.email, user.name)
+    } catch (error) {
+        console.error("Failed to send registration email:", error)
+    }
 }
 
 /**

@@ -1,0 +1,56 @@
+
+> backend-ledger@1.0.0 dev
+> node --watch server.js
+
+[dotenv@17.2.3] injecting env (7) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+Server is running on port 3000
+server is connecte1234567 $2b$10$lQxRtU99wbDN2CjBnUwPd.5/Di9sY8UrRestarting 'server.js'
+[dotenv@17.2.3] injecting env (7) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+Server is running on port 3000
+Restarting 'server.js12345678 $2b$10$84jSWizdCzYVTY48HVVlpuRhTpVI02fwh0vXnqh/OMY7FaA762S6C
+Message sent: <926d646e-8784-1a5b-33a4-071f043b4bbe@gmail.com>
+Preview URL: false
+Message sent: <ca72a316-7c82-c7aa-4a7a-23fbcb2e419f@gmail.com>
+Preview URL: false
+1234567 $2b$10$UCI7y7PdbdO43zWoFYVOpOW5940rmm/V1RLHrhhhr7rJwHuJdPiVy
+Message sent: <840fe6f1-6507-1b11-960a-888c158a5a46@gmail.com>
+Preview URL: false
+12345678 $2b$10$84jSWizdCzYVTY48HVVlpuRhTpVI02fwh0vXnqh/OMY7FaRestarting 'server.js'
+[dotenv@17.2.3] injecting env (7) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+Server is running on port 3000
+Email server is ready to send messages
+server is connected to DB
+Restarting 'server.js'
+[dotenv@17.2.3] injecting env (7) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+Failed running 'server.js'. WaitMessage sent: <77ba1152-0b37-2737-98e4-670e42fb2e63@gmail.com>
+Preview URL: false
+Message sent: <dbcd71df-5f43-25b0-12ae-742d0467ae1c@gmail.com>
+Preview URL: false
+Message sent: <0bdc53ed-de6f-2532-3826-0a1d2bd69dce@gmail.com>
+Preview URL: false
+Message sent: <0f60f8b8-3016-c0f6-42b2-3a281a867a5c@gmail.com>
+Preview URL: false
+Message sent: <7ef1a8c3-7a26-784f-4744-a625f154f8ec@gmail.com>
+Preview URL: false
+1234567 $2b$10$UCI7y7PdbdO43zWoFYVOpOW5940rmm/V1RLHrhhhr7rJwHuJdPiVy
+Message sent: <f3455cfb-f9f7-ae14-8fac-5bfbeada23c6@gmail.com>
+Preview URL: false
+Message sent: <56e93f58-492a-46ba-dc6d-ac8e7cc922ea@gmail.com>
+Preview URL: false
+env' }
+Server is running on port 3000
+server is connected to DB
+Email server is ready to send messages
+Restarting 'server.js'
+[dotenv@17.2.3] injecting env (7) from .env -- tip: ⚙️  override existing env vars with { override: true }
+Server is running on port 3000
+server is connected to DB
+Email server is ready to send messages
+Restarting 'server.js'
+[dotenv@17.2.3] injecting env (7) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+Server is running on port 3000
+Restarting 'server.js'
+[dotenv@17.2.3] injecting env (7) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+Server is running on port 3000
+server is connected to DB
+Email server is ready to send messages
